@@ -83,7 +83,8 @@ If you want to recover message, use ``.dcode`` method:
 steganogan.decode('output.png')
 > This is a super secret message!
 ```
-In this repo, I have attached a .ipynb file describing the simple uses of SteganoGAN
+``NOTE`` In this repo, I have attached a .ipynb file describing the simple uses of SteganoGAN.
+You can use **Google Colab** or **Jupyter Notebook** to run cell by cell or add all cells into 1 file python and run it.
 
 ## **Research**
 ___
